@@ -14,8 +14,8 @@ type files struct {
 }
 
 func main() {
-	var sourceDir string = "D:/Golang/Gompare/source"
-	var targetDir string = "D:/Golang/Gompare/target"
+	var sourceDir string = "SOURCE DIR PATH"
+	var targetDir string = "TARGET DIR PATH"
 
 	var directories []files
 
